@@ -1,0 +1,59 @@
+/*.pagina{
+    display: flex;
+    align-items: center;
+
+}
+*/
+
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+.cabecalho {
+    background-color: rgb(138, 138, 238);
+    color: whitesmoke;
+    width: 100%;
+    height: 100px;
+    margin-bottom: 5px;
+}
+
+.menu {
+    background-color: rgb(176, 188, 252);
+    color: whitesmoke;
+    width: 28.1%;
+    height: 500px;
+    float: left;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+
+.principal {
+    background-color: rgb(201, 120, 248);
+    color: whitesmoke;
+    width: 46.16%;
+    height: 500px;
+    float: left;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+
+.aside {
+    background-color: rgb(232, 113, 243);
+    color: whitesmoke;
+    width: 25.2%;
+    height: 500px;
+    float: left;
+    margin-bottom: 5px;
+    padding: 0px;
+}
+
+.footer{
+    background-color: rgb(250, 157, 203);
+    color: whitesmoke;
+    width: 100%;
+    height: 350px;
+    clear: both;
+    
+}
